@@ -1,12 +1,21 @@
-yangshun:
-  name: Yangshun Tay
-  title: Front End Engineer @ Facebook
-  url: https://github.com/yangshun
-  image_url: https://github.com/yangshun.png
+brateq:
+  name: Bartosz Fijałkowski
+  title: AI Engineer
+  url: https://github.com/brateq
+  image_url: https://github.com/brateq.png
   page: true
   socials:
-    x: yangshunz
-    github: yangshun
+    linkedin: brateq
+    github: brateq
+
+kujawska:
+  name: Basia Kujawska
+  title: Technical Writer
+  url: https://github.com/seriouslysilly
+  image_url: https://github.com/seriouslysilly.png
+  page: true
+  socials:
+    linkedin: kujawska
 
 slorber:
   name: Sébastien Lorber
