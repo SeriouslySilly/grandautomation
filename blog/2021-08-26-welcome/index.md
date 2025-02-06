@@ -1,7 +1,7 @@
 ---
 slug: welcome
 title: Welcome
-authors: [kujawska, brateq]
+authors: [brateq, kujawska]
 tags: [facebook, hello, docusaurus]
 ---
 
