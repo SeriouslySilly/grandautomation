@@ -36,3 +36,18 @@
   --ifm-color-primary-lightest: #fff;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
+
+.button {
+  border-radius: 0;
+  padding: 8px 16px;
+  font-size: 14px;
+  font-weight: 600;
+  text-transform: uppercase;
+  background-color: transparent;
+  border: 1px solid var(--ifm-color-primary);
+  color: var(--ifm-color-primary);
+}
+.button:hover {
+  background-color: var(--ifm-color-primary);
+  color: white;
+}
