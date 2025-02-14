@@ -1,3 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap');
+
+:root {
+  --ifm-font-family-base: 'Inter', sans-serif;
+  --ifm-font-family-header: 'Inter', sans-serif;
+}
+
 /**
  * Any CSS included here will be global. The classic template
  * bundles Infima by default. Infima is a CSS framework designed to
@@ -5,26 +12,42 @@
  */
 
 /* You can override the default Infima variables here. */
+
 :root {
-  --ifm-color-primary: #2e8555;
-  --ifm-color-primary-dark: #29784c;
-  --ifm-color-primary-darker: #277148;
-  --ifm-color-primary-darkest: #205d3b;
-  --ifm-color-primary-light: #33925d;
-  --ifm-color-primary-lighter: #359962;
-  --ifm-color-primary-lightest: #3cad6e;
+  --ifm-color-primary: #222; /* Dark gray/black */
+  --ifm-color-primary-dark: #111;
+  --ifm-color-primary-darker: #000;
+  --ifm-color-primary-darkest: #000;
+  --ifm-color-primary-light: #444;
+  --ifm-color-primary-lighter: #555;
+  --ifm-color-primary-lightest: #666;
   --ifm-code-font-size: 95%;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
 }
 
 /* For readability concerns, you should choose a lighter palette in dark mode. */
 [data-theme='dark'] {
-  --ifm-color-primary: #25c2a0;
-  --ifm-color-primary-dark: #21af90;
-  --ifm-color-primary-darker: #1fa588;
-  --ifm-color-primary-darkest: #1a8870;
-  --ifm-color-primary-light: #29d5b0;
-  --ifm-color-primary-lighter: #32d8b4;
-  --ifm-color-primary-lightest: #4fddbf;
+  --ifm-color-primary: #ccc;
+  --ifm-color-primary-dark: #bbb;
+  --ifm-color-primary-darker: #aaa;
+  --ifm-color-primary-darkest: #999;
+  --ifm-color-primary-light: #ddd;
+  --ifm-color-primary-lighter: #eee;
+  --ifm-color-primary-lightest: #fff;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+}
+
+.button {
+  border-radius: 0;
+  padding: 8px 16px;
+  font-size: 14px;
+  font-weight: 600;
+  text-transform: uppercase;
+  background-color: transparent;
+  border: 1px solid var(--ifm-color-primary);
+  color: var(--ifm-color-primary);
+}
+.button:hover {
+  background-color: var(--ifm-color-primary);
+  color: white;
 }

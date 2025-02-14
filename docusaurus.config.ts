@@ -6,7 +6,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
   title: 'AI w praktyce',
-  tagline: 'Dinosaurs are cool',
+  tagline: 'Lorem ipsum dolor',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
