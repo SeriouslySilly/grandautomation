@@ -5,7 +5,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
 const config: Config = {
-  title: 'AI w praktyce',
+  title: 'Blog AI w praktyce',
   tagline: 'Lorem ipsum dolor',
   favicon: 'img/favicon.ico',
 
@@ -68,7 +68,7 @@ const config: Config = {
     // Replace with your project's social card
     image: 'img/docusaurus-social-card.jpg',
     navbar: {
-      title: 'AI w praktyce',
+      title: 'Blog AI w praktyce',
       logo: {
         alt: 'My Site Logo',
         src: 'img/logo.svg',
@@ -131,7 +131,7 @@ const config: Config = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} AI w praktyce`,
+      copyright: `Copyright © ${new Date().getFullYear()} GrandCode`,
     },
     prism: {
       theme: prismThemes.github,

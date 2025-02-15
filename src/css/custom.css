@@ -51,3 +51,8 @@
   background-color: var(--ifm-color-primary);
   color: white;
 }
+
+.footer a:hover {
+  color: #00CC00 !important;
+  text-decoration: none; 
+}
