@@ -10,23 +10,11 @@ brateq:
 
 kujawska:
   name: Basia Kujawska
-  title: Technical Writer
+  title: (Human) Editor
   url: https://github.com/seriouslysilly
   image_url: https://github.com/seriouslysilly.png
   page: true
   socials:
     linkedin: kujawska
 
-slorber:
-  name: Sébastien Lorber
-  title: Docusaurus maintainer
-  url: https://sebastienlorber.com
-  image_url: https://github.com/slorber.png
-  page:
-    # customize the url of the author page at /blog/authors/<permalink>
-    permalink: '/all-sebastien-lorber-articles'
-  socials:
-    x: sebastienlorber
-    linkedin: sebastienlorber
-    github: slorber
-    newsletter: https://thisweekinreact.com
+
