@@ -90,7 +90,7 @@ const config: Config = {
     },
     footer: {
       style: 'dark',
-      copyright: `Copyright © ${new Date().getFullYear()} GrandCode`,
+      copyright: `Copyright © ${new Date().getFullYear()} <a href="https://example.com" target="_blank" rel="noopener noreferrer">GrandCode</a>`,
     },
     prism: {
       theme: prismThemes.github,
