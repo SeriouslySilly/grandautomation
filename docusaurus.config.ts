@@ -71,7 +71,7 @@ const config: Config = {
       title: 'Blog AI w praktyce',
       logo: {
         alt: 'My Site Logo',
-        src: 'img/logo.svg',
+        src: 'img/logo.png',
       },
       items: [
         {
