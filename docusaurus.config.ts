@@ -35,14 +35,9 @@ const config: Config = {
     [
       'classic',
       {
-        docs: {
-          sidebarPath: './sidebars.ts',
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          //editUrl:
-          //  'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
-        },
+        docs: false,
         blog: {
+          routeBasePath: '/',
           showReadingTime: true,
           feedOptions: {
             type: ['rss', 'atom'],
@@ -74,13 +69,6 @@ const config: Config = {
         src: 'img/logo.png',
       },
       items: [
-        //{
-          //type: 'docSidebar',
-          //sidebarId: 'tutorialSidebar',
-          //position: 'left',
-          //label: 'Tutorial',
-        //},
-        {to: '/blog', label: 'Blog', position: 'left'},
         {
           href: 'https://github.com/facebook/docusaurus',
           label: 'GitHub',
