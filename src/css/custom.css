@@ -75,8 +75,9 @@
 }
 
 .markdown img {
-  max-width: 100%; 
+  max-width: 90%; 
   border-radius: 15px; 
   box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1); 
   padding: 4px; 
+  height: auto;
 }
