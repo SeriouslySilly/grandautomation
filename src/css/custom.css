@@ -25,9 +25,7 @@
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
 }
 
-html[data-theme='light'] .footer a {
-  color: white !important;
-}
+
 
 /* For readability concerns, you should choose a lighter palette in dark mode. */
 [data-theme='dark'] {
@@ -56,7 +54,12 @@ html[data-theme='light'] .footer a {
   color: white;
 }
 
-.footer a:hover {
-  color: #00CC00 !important;
+.footer a {
+  color: #00CC00;
   text-decoration: none; 
+}
+
+.footer a:hover {
+  color: #00CC00;
+  text-decoration: underline; 
 }
