@@ -69,11 +69,11 @@ const config: Config = {
         src: 'img/logo.png',
       },
       items: [
-        {
-          href: 'https://github.com/facebook/docusaurus',
-          label: 'GitHub',
-          position: 'right',
-        },
+        //{
+          //href: 'https://github.com/facebook/docusaurus',
+          //label: 'GitHub',
+          //position: 'right',
+        //},
       ],
     },
     footer: {
