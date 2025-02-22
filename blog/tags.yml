@@ -17,3 +17,15 @@ hola:
   label: Hola
   permalink: /hola
   description: Hola tag description
+
+jotform:
+  label: jotform
+  permalink: /jotform
+
+crm:
+  label: crm
+  permalink: /crm
+
+form:
+  label: form
+  permalink: /form
