@@ -29,3 +29,11 @@ crm:
 formularz:
   label: formularz
   permalink: /formularz
+
+ai:
+  label: ai
+  permalink: /ai
+
+automatyzacja:
+  label: automatyzacja
+  permalink: /automatyzacja
