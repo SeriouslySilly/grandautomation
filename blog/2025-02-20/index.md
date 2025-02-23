@@ -2,7 +2,7 @@
 slug: jak-automatycznie-zebrac-dane-do-umowy
 title: Jak automatycznie zebrać od klienta dane do umowy?
 authors: [brateq, kujawska]
-tags: [jotform, crm, form]
+tags: [jotform, crm, formularz]
 ---
 
 Chciałbym opowiedzieć o tym, jak zautomatyzować zbieranie danych od klientów. Wyobraź sobie, że masz już klienta w CRM-ie lub Excelu, ale do umowy i faktury potrzebujesz dodatkowych informacji, takich jak adres czy NIP. <!-- truncate -->Wysyłasz więc e-mail z prośbą o brakujące dane, a następnie ktoś ręcznie wprowadza je do systemu. 
@@ -28,6 +28,11 @@ Zdecydowałem się zbierać dane od klientów za pomocą interaktywnego formular
     ![elementy formularza jotform](./jotform-elems-1.png)
     
     ![ukryty id w url](./url-jotform.png)
+
+* Automatyczna walidacja danych  
+    Dzięki walidacji danych, osoba, która wypełnia formularz, od razu widzi, czy format podanego numeru telefonu jest poprawny albo czy NIP składa się z właściwej liczby cyfr.
+
+    ![walidacja danych w formularzu jotform](./validation-jotform.png)
 
 * Wybór tylko dostępnych opcji  
     Możesz stworzyć z góry zdefiniowaną listę opcji dostępnych dla klienta. Lista wyboru zapobiega błędom i minimalizuje konieczność ręcznego poprawiania danych. Dzięki temu klient w zasadzie nie może podesłać błędnych danych.

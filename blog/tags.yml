@@ -26,6 +26,6 @@ crm:
   label: crm
   permalink: /crm
 
-form:
-  label: form
-  permalink: /form
+formularz:
+  label: formularz
+  permalink: /formularz
