@@ -66,7 +66,7 @@ const config: Config = {
       title: 'GrandAutomation Blog',
       logo: {
         alt: 'My Site Logo',
-        src: 'img/logo.png',
+        src: 'img/ga-red-logo.svg',
       },
       items: [
         //{
