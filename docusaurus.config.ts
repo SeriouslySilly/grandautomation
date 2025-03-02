@@ -5,7 +5,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
 const config: Config = {
-  title: 'GrandAutomation Blog',
+  title: 'grand.automation blog',
   tagline: 'Lorem ipsum dolor',
   favicon: 'img/favicon.ico',
 
@@ -63,7 +63,7 @@ const config: Config = {
     // Replace with your project's social card
     image: 'img/docusaurus-social-card.jpg',
     navbar: {
-      title: 'GrandAutomation Blog',
+      title: 'grand.automation blog',
       logo: {
         alt: 'My Site Logo',
         src: 'img/ga-red-logo.svg',

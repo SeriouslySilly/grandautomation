@@ -11,7 +11,7 @@ Cześć! Witaj na naszym blogu o automatyzacji procesów biznesowych. Skoro to p
 
 ![Docusaurus Plushie](./docusaurus-plushie-banner.jpeg)
 
-Jestem Basia i zawodowo zajmuję się tworzeniem dokumentacji technicznej. Współtworzę i utrzymuję bloga GrandAutomation. Czuwam też nad tym, żeby nasze posty nie tylko dobrze się czytało, ale też chciało wracać po więcej.  
+Jestem Basia i zawodowo zajmuję się tworzeniem dokumentacji technicznej. Współtworzę i utrzymuję bloga grand.automation. Czuwam też nad tym, żeby nasze posty nie tylko dobrze się czytało, ale też chciało wracać po więcej.  
 
 Głównym autorem będzie Bartosz, AI Engineer z wieloletnim doświadczeniem w programowaniu i rozwiązywaniu problemów z wykorzystaniem narzędzi AI. Bartosz na co dzień zajmuje się automatyzacją, sztuczną inteligencją, wdrażaniem automatyzacji w firmach i prowadzeniem szkoleń z tego zakresu. Pierwsze rozwiązania w dziedzinie AI Bartosz projektował już w 2019 roku, dzięki czemu może się pochwalić naprawdę dużym doświadczeniem praktycznym i szeroką wiedzą z zakresu możliwości i ograniczeń AI.  
 
