@@ -37,3 +37,7 @@ ai:
 automatyzacja:
   label: automatyzacja
   permalink: /automatyzacja
+
+todoist:
+  label: todoist
+  permalink: /todoist
